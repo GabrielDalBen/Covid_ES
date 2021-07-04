@@ -7,7 +7,6 @@
 ## Descrição do Projeto
 ---
 
-
 ## Escopo do projeto 
 
 ### [Dados Limpos](https://github.com/GabrielDalBen/covid_ES/tree/main/dados_limpos)
@@ -21,6 +20,7 @@ Aqui você encontrará o [notebook](https://github.com/GabrielDalBen/covid_ES/bl
 ## [Previsões](https://github.com/GabrielDalBen/covid_ES/tree/main/previsoes)
 ---
 Aqui você encontrará três notebooks com os modelos de previsão desenvolvidos no FB Prophet:
+
 [Previsão da vacinação](https://github.com/GabrielDalBen/covid_ES/blob/main/previsoes/1_Previsao_vacinacao.ipynb)
 
 [Previsão da óbitos](https://github.com/GabrielDalBen/covid_ES/blob/main/previsoes/2_Previsao_obitos.ipynb)
