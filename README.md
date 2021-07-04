@@ -34,7 +34,9 @@ Aqui você encontrará três notebooks com os modelos de previsão desenvolvidos
 
 ## Conclusão
 ---
+Nesse projeto pudemos observar que o Espírito Santo passou por momentos críticos durante a pandemia. Além disso, analisamos indícios de como os número de casos de COVID podem ser subnotificados em alguns estados.
 
+As previsões de como a pandemia vai se comportar são extremamente complicadas de serem geradas, já que diferente de doenças já estabelecidas a COVID 19 ainda possui inúmeras questões em aberto que podem influenciar o número de casos e óbitos (mutações, vacinação, medidas de distanciamento entre outras). Desse modo, propusemos apenas previsões para curto período de tempo e aumentamos a sensibilidade do modelo à existência de qualquer changepoint. 
 
 
 
