@@ -26,3 +26,26 @@ Aqui você encontrará três notebooks com os modelos de previsão desenvolvidos
 [Previsão da óbitos](https://github.com/GabrielDalBen/covid_ES/blob/main/previsoes/2_Previsao_obitos.ipynb)
 
 [Previsão da casos](https://github.com/GabrielDalBen/covid_ES/blob/main/previsoes/3_Previsao_casos.ipynb) 
+
+
+
+## Conclusao
+---
+
+
+
+
+
+### Autor
+---
+ <img style="border-radius:  10% 30% 50% 70%;" src="https://avatars3.githubusercontent.com/u/16099477?s=400&u=9c91a633df96d3a8907f7a12ba7e2dade0482c72&v=4" width="100px;" alt=""/>
+ <br />
+ 
+Feito por Gabriel Dal Ben
+<br />
+Mande seu Feedback!
+
+[![Twitter Badge](https://img.shields.io/badge/-@gabriel_bd-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gabriel_bd)](https://twitter.com/gabriel_bd) [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieldalben/)](www.linkedin.com/in/gabrieldalben/) 
+[![Gmail Badge](https://img.shields.io/badge/-gbdalbem.26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gbdalbem.26@gmail.com)](mailto:gbdalbem.26@gmail.com)
+
+<gif src='https://media1.tenor.com/images/863df132b0c2a69ce7681c7ce64a744c/tenor.gif?itemid=20720474' width="800" height="800">
