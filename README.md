@@ -14,7 +14,7 @@
 ---
 Neste diretório estão todos os dados limpos e filtrados. Além disso, um [Notebook](https://github.com/GabrielDalBen/covid_ES/blob/main/dados_limpos/Limpeza_dados.ipynb) que contém todo o processo de limpeza e manipulação dos Dataframes.
 
-## [Panorama_COVID_ES](https://github.com/GabrielDalBen/covid_ES/tree/main/panorama_COVID_ES)
+## [Panorama COVID ES](https://github.com/GabrielDalBen/covid_ES/tree/main/panorama_COVID_ES)
 ---
 Aqui você encontrará o [notebook](https://github.com/GabrielDalBen/covid_ES/blob/main/panorama_COVID_ES/Panorama_covid_Es.ipynb) do projeto, nele estarão todos os gráficos, análises e textos sobre a sitação da pandemia do estado do Espírito Santo.
 
@@ -22,5 +22,7 @@ Aqui você encontrará o [notebook](https://github.com/GabrielDalBen/covid_ES/bl
 ---
 Aqui você encontrará três notebooks com os modelos de previsão desenvolvidos no FB Prophet:
 [Previsão da vacinação](https://github.com/GabrielDalBen/covid_ES/blob/main/previsoes/1_Previsao_vacinacao.ipynb)
-[Previsão da óbitos](https://github.com/GabrielDalBen/covid_ES/blob/main/previsoes/2_Previsao_obitos.ipynb) 
+
+[Previsão da óbitos](https://github.com/GabrielDalBen/covid_ES/blob/main/previsoes/2_Previsao_obitos.ipynb)
+
 [Previsão da casos](https://github.com/GabrielDalBen/covid_ES/blob/main/previsoes/3_Previsao_casos.ipynb) 
