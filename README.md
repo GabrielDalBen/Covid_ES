@@ -6,9 +6,12 @@
 
 ## Descrição do Projeto
 ---
+Olá, nesse projeto vamos checar qual a situação do Espírito Santo na luta contra a pandemia. Com um grande volume de dados, poderemos comparar e levantar algumas hipóteses sobre como os números da pandemia se comportam no ES e em outros estados da região Sudeste.
+
+Além disso, desenvolvemos modelos preditivos tentando vislumbrar o futuro da vacinação, do número de óbitos e de casos de COVID - 19 no Espírito Santo. 
+---
 
 ## Escopo do projeto 
-
 ### [Dados Limpos](https://github.com/GabrielDalBen/covid_ES/tree/main/dados_limpos)
 ---
 Neste diretório estão todos os dados limpos e filtrados. Além disso, um [Notebook](https://github.com/GabrielDalBen/covid_ES/blob/main/dados_limpos/Limpeza_dados.ipynb) que contém todo o processo de limpeza e manipulação dos Dataframes.
@@ -29,7 +32,7 @@ Aqui você encontrará três notebooks com os modelos de previsão desenvolvidos
 
 
 
-## Conclusao
+## Conclusão
 ---
 
 
