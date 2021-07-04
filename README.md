@@ -2,7 +2,12 @@
 
 ![image](https://github.com/GabrielDalBen/covid_ES/blob/main/dados_limpos/Panorama%20COVID%20-%20Esp%C3%ADrito%20Santo.jpg?raw=true)
 <img src="https://github.com/GabrielDalBen/covid_ES/blob/main/dados_limpos/Panorama%20COVID%20-%20Esp%C3%ADrito%20Santo.jpg?raw=true" class="center">
-<img src="https://github.com/GabrielDalBen/covid_ES/blob/main/dados_limpos/Panorama%20COVID%20-%20Esp%C3%ADrito%20Santo.jpg?raw=true" alt="covid" class="center">
+
+
+<div style="border: 1px solid black;">
+<img class="center" src ="https://github.com/GabrielDalBen/covid_ES/blob/main/dados_limpos/Panorama%20COVID%20-%20Esp%C3%ADrito%20Santo.jpg?raw=true">
+
+</div>
 
 ## Descrição do Projeto
 ---
